@@ -114,3 +114,18 @@ button {
     font-size:24px;
     font-weight: bold;
   }
+  .box{
+    display: flex;
+    background-color:#3882f6 ;
+    justify-content: center;
+    gap:42px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    color: white;
+    margin: 100px 200px 100px 200px;
+  }
+  .sign{
+    border: 2px solid white;
+    width: 150px;
+    border-radius: 12px;
+  }
