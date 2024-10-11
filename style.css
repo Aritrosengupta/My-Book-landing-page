@@ -16,6 +16,7 @@ li{
     color: white;
     height: 40px;
     align-items: center;
+    padding-bottom: 80px;
     
     
 }
@@ -34,3 +35,59 @@ ul{
 .left-header{
     margin-left: 320px;
 }
+.Header-info{
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 80px;
+    
+  
+}
+.image{
+    width:300px;
+    height: auto;
+}
+.info{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 450px;
+    padding-right: 40px;
+    gap:12px;
+}
+button {
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+    background-color:#3882F6 ;
+    color: white;
+    
+  }
+  .books{
+    text-align: center;
+    padding-top: 20px;
+  }
+  .img{
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    
+  }
+  .Group{
+    display: flex;
+    margin-top: 12px;
+    justify-content: center;
+    gap: 24px;
+    align-items: center;
+    margin-top:40px;
+  }
+  .list{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    text-align: center;
+
+  }
