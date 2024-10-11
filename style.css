@@ -45,7 +45,7 @@ ul{
   
 }
 .image{
-    width:300px;
+    width:200px;
     height: auto;
 }
 .info{
@@ -83,6 +83,7 @@ button {
     gap: 24px;
     align-items: center;
     margin-top:40px;
+    margin-bottom: 40px;
   }
   .list{
     display: flex;
@@ -90,4 +91,26 @@ button {
     width: 200px;
     text-align: center;
 
+  }
+  .quoted-text{
+    font-size: 36px;
+    font-weight: light;
+    color: #1F2937;
+    width: 800px;
+  }
+  .Quote{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom:40px;
+  }
+  cite{
+    margin-left: auto;
+    margin-right: 850px;
+    font-size:24px;
+    font-weight: bold;
   }
