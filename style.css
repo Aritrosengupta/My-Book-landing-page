@@ -129,3 +129,10 @@ button {
     width: 150px;
     border-radius: 12px;
   }
+  .footer{
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding: 40px;
+  }
+ 
